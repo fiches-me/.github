@@ -4,6 +4,7 @@
   <div>
     <img height="32" src="https://raw.githubusercontent.com/fiches-me/cpes/refs/heads/main/public/logo.png"  />
     <img height="32" src="https://raw.githubusercontent.com/fiches-me/cpes2/refs/heads/main/public/logo.png"  />
+    <img height="32" src="https://raw.githubusercontent.com/fiches-me/cpes3/refs/heads/main/public/logo.png"  />
     <img height="32" src="https://raw.githubusercontent.com/fiches-me/kerna/refs/heads/main/public/logo.png"  />
   </div>
 </div>
